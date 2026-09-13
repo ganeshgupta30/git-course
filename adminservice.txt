@@ -1,1 +1,3 @@
 can do whatever they want they can do!
+create a avatar fot customer 
+login logout
